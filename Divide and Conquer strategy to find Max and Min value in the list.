@@ -1,6 +1,4 @@
- printf ("Maximum element in an array : %d\n", max);
- return 0;
-#include<stdio.h>
+ #include<stdio.h>
 #include<stdio.h>
 int max, min;
 int a[100];
@@ -53,3 +51,5 @@ int main ()
  maxmin(1, num);
  printf ("Minimum element in an array : %d\n", min);
 }
+printf ("Maximum element in an array : %d\n", max);
+ return 0;
